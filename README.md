@@ -2,9 +2,9 @@
 - 👀 I’m interested in creating games and 3d modeling and of course in the future I want to become a game developer
 - 🌱 I study at school in the 10th grade(2023)
 - 📫 How to reach me 
-- Telegram: @saidaxmedov_saidaxror
-- Instagram: @beluga.edit
-- VK: @saidaxmedov_saidaxror
+- Telegram: [@saidaxmedov_saidaxror](https://t.me/saidaxmedov_saidaxror)
+- Instagram: [@beluga.edit](https://www.instagram.com/beluga.edit/)
+- VK: [@saidaxmedov_saidaxror](https://vk.com/saidaxmedov_saidaxror)
 
 <!---
 Saidaxmedov/Saidaxmedov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
